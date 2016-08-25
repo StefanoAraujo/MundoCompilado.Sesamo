@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sesamo</string>
+    <string name="app_preferences">Sesamo</string>
+    <string name="action_settings">Limpar preferências</string>
+</resources>
